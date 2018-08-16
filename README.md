@@ -3,7 +3,7 @@
 This repository was adapted from the DeepML package developed by Pedro da Silva, which can be found at GitLab:
 > https://gitlab.cern.ch/psilva/DeepML.git <br>
 
-I have adapted a few files for use in the DeepBayes project.
+I have adapted a few files for use in the DeepBayes project. You can contact Pedro da Silva at psilva@cern.ch for more information.
 
 # DeepML
 
