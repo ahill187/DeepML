@@ -1,0 +1,2 @@
+/eos/cms/store/cmst3/user/psilva/Wmass/RecoilTest_regress-v2/Chunks/WJetsToLNu_part1.root
+/eos/cms/store/cmst3/user/psilva/Wmass/RecoilTest_regress-v2/Chunks/WJetsToLNu_part2.root
